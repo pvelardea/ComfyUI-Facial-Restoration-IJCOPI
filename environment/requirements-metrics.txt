@@ -1,0 +1,18 @@
+# Metric-evaluation Python dependencies (reference manifest, not a frozen lockfile).
+# Environment: Conda "comfyui"; Python 3.11, verified on 2026-11-14.
+# Observed in this Conda environment:
+#   torch 2.13.0+cu130 (CUDA runtime 13.0; GPU available)
+#   onnxruntime 1.27.0 (CPUExecutionProvider; no onnxruntime-gpu installed)
+#   insightface and pyiqa successfully imported (exact versions not recorded here)
+# PyTorch with a CUDA-specific build must be installed separately using the
+# appropriate channel/build. This file intentionally does not reinstall torch.
+# Versions below that are unpinned were not verified in this Conda interpreter.
+# See environment/system_info.md for independently inspected ComfyUI runtime versions.
+onnxruntime==1.27.0
+insightface
+pyiqa
+opencv-python
+numpy
+scipy
+pandas
+Pillow

@@ -1,0 +1,4 @@
+# Verified statistics-only environment used to regenerate the bundled paired CSVs.
+# Run in a separate venv, not necessarily in the ComfyUI image-processing env.
+numpy==2.3.5
+scipy==1.17.0

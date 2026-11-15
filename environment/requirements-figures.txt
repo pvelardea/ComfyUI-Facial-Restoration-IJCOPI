@@ -1,0 +1,2 @@
+# Optional dependency for plots produced by scripts/plot_results.py
+matplotlib==3.10.8

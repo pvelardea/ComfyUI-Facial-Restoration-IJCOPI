@@ -1,0 +1,20 @@
+stage,filename,model_role,sha256,checksum_recorded_on,documentation
+Inpainting,Realistic_Vision_V5.1-inpainting.safetensors,SD 1.5 inpainting checkpoint,befb05f117278b063dac594a3406d861c8e148a16db356a95cf0deee25c94cdc,2026-11-14,SHA-256 fingerprint of the model file listed for this workflow
+Inpainting,groundingdino_swint_ogc.pth,GroundingDINO Swin-T,3b3ca2563c77c69f651d7bd133e97139c186df06231157a64c507099c52bc799,2026-11-14,SHA-256 fingerprint of the model file listed for this workflow
+Inpainting,sam_vit_h_4b8939.pth,Segment Anything ViT-H,00ae82091a829c0ff866bbfdb35d2f0ee9fb54a44f4f89bd1980ea3953a7fbbf,2026-11-14,SHA-256 fingerprint of the model file listed for this workflow
+Inpainting,sd-controlnet-openpose.safetensors,ControlNet OpenPose,a3ca16220ebd7220d37a67d68329b4290f2c72a854955fd35f84b97c85596e5b,2026-11-14,SHA-256 fingerprint of the model file listed for this workflow
+SD P1a/P1b,Realistic_Vision_V5.1.safetensors,SD 1.5 checkpoint,00445494c80979e173c267644ea2d7c67a37fe3c50c9f4d5a161d8ecdd96cb2f,2026-11-14,SHA-256 fingerprint of the model file listed for this workflow
+SD P1a/P1b,control_v11f1e_sd15_tile.pth,ControlNet Tile,8aa69b8d391e72c2fced6a650268137dc0ed594cafe8a2c0f8b994799a21979b,2026-11-14,SHA-256 fingerprint of the model file listed for this workflow
+B2/B3/SD,4x-UltraSharp.pth,Upscaler,a5812231fc936b42af08a5edba784195495d303d5b3248c24489ef0c4021fe01,2026-11-14,SHA-256 fingerprint of the model file listed for this workflow
+B3,codeformer.pth,Face restoration,1009e537e0c2a07d4cabce6355f53cb66767cd4b4297ec7a4a64ca4b8a5684b7,2026-11-14,SHA-256 fingerprint of the model file listed for this workflow
+P1b,sam_vit_b_01ec64.pth,FaceDetailer SAM,ec2df62732614e57411cdcf32a23ffdf28910380d03139ee0f4fcbe91eb8c912,2026-11-14,SHA-256 fingerprint of the model file listed for this workflow
+P1b,face_yolov8m.pt,Face detector,717923c19b3f4bbf5250b728f1fa6b2cb72a33aed1d236ea9caf0e21ad943e5f,2026-11-14,SHA-256 fingerprint of the model file listed for this workflow
+P2 Qwen,qwen-image-edit-2511-Q4_K_M.gguf,Image editing diffusion model,8677bac90627adbbc11efab87b1870e701c4eb3689ee865a3de8ab81b705a723,2026-11-14,SHA-256 fingerprint of the model file listed for this workflow
+P2 Qwen,qwen_2.5_vl_7b_fp8_scaled.safetensors,Qwen text/vision encoder,cb5636d852a0ea6a9075ab1bef496c0db7aef13c02350571e388aea959c5c0b4,2026-11-14,SHA-256 fingerprint of the model file listed for this workflow
+P2 Qwen,qwen_image_vae.safetensors,Qwen VAE,a70580f0213e67967ee9c95f05bb400e8fb08307e017a924bf3441223e023d1f,2026-11-14,SHA-256 fingerprint of the model file listed for this workflow
+P2 Qwen,Qwen-Image-Edit-2511-Lightning-4steps-V1.0-bf16.safetensors,4-step Lightning LoRA,22226e8d05d354bb356627d428809f5afd7819399b077238a2b70a82883a904f,2026-11-14,SHA-256 fingerprint of the model file listed for this workflow
+ArcFace,1k3d68.onnx,3D landmark,df5c06b8a0c12e422b2ed8947b8869faa4105387f199c477af038aa01f9a45cc,2026-11-14,SHA-256 fingerprint of the model file listed for this workflow
+ArcFace,2d106det.onnx,2D landmark,f001b856447c413801ef5c42091ed0cd516fcd21f2d6b79635b1e733a7109dbf,2026-11-14,SHA-256 fingerprint of the model file listed for this workflow
+ArcFace,det_10g.onnx,Face detection,5838f7fe053675b1c7a08b633df49e7af5495cee0493c7dcf6697200b85b5b91,2026-11-14,SHA-256 fingerprint of the model file listed for this workflow
+ArcFace,genderage.onnx,Auxiliary age/gender model,4fde69b1c810857b88c64a335084f1c3fe8f01246c9a191b48c7bb756d6652fb,2026-11-14,SHA-256 fingerprint of the model file listed for this workflow
+ArcFace,w600k_r50.onnx,512-dimensional recognition model,4c06341c33c2ca1f86781dab0e829f88ad5b64be9fba56e56bc9ebdefc619e43,2026-11-14,SHA-256 fingerprint of the model file listed for this workflow
